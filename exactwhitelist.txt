@@ -1,0 +1,17 @@
+ssl.google-analytics.com
+stats.g.doubleclick.net
+www.google-analytics.com
+www.googletagmanager.com
+signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
+sig.paytm.com
+google-analytics.com
+www.msftconnecttest.com
+dns.msftncsi.com
+reports.crashlytics.com
+settings.crashlytics.com
+fonts.gstatic.com
+storage.googleapis.com
+login.live.com
+logs.juspay.in
+api.segment.io
+api2.branch.io
